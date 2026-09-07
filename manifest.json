@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "app": "cat",
+  "global": "__sveltekit_28hcvv",
+  "start": "_app/immutable/entry/start.D4Lt7ufV.js",
+  "appEntry": "_app/immutable/entry/app.endHtEVB.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/cat-dist/_app/immutable/entry/start.D4Lt7ufV.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/chunks/BkJwzP_g.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/chunks/Tatot1DR.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/chunks/HSVNmU8O.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/entry/app.endHtEVB.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/chunks/5C4laf9l.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/chunks/Bz3bJPCf.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/chunks/BsIIB0pE.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/chunks/B8Yx58V4.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/chunks/BTga_eXa.js",
+    "https://yissok.github.io/cat-dist/_app/immutable/nodes/0.BC4JRGJ7.js"
+  ]
+}
